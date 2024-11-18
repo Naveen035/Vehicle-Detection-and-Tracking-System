@@ -61,3 +61,5 @@ For any queries or suggestions, feel free to reach out:
 📧 Email: [massnaveen1002@gmail.com](mailto:massnaveen1002@gmail.com)  
 🌐 GitHub: [Naveen Kumar](https://github.com/Naveen035)
 
+## 🔗 **LinkedIn Post**  
+Check out the LinkedIn post about this project: [LinkedIn Post](https://www.linkedin.com/posts/naveen-kumar1002_vehicle-detection-and-tracking-system-activity-7264175943844257792-InUI?utm_source=share&utm_medium=member_desktop)
